@@ -1,0 +1,40 @@
+body {
+	background-color: #f6f6f6;
+	font-family: Arial;
+}
+.container {
+	border: 1px solid #ffffff;
+	border-radius: 10px;
+	background-color: #ffffff;
+	padding: 5px;
+	width: 950px;
+	margin: auto;
+	margin-top: 40px;
+	padding: 30px 45px 55px 45px; /*All my measures using width fucked up because of padding*/
+}
+.container p {
+	font-size: 25px;
+	-webkit-font-smoothing: antialiased;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+}
+.container input {
+	background-color: #3498db;
+	color: #ffffff;
+	height: 90px;
+	width: 290px;
+	border: none;
+	border-radius: 10px;
+	font-size: 25px;
+	cursor: pointer;	
+}
+footer p {
+	text-align: center;
+	color: #999999;
+	font-size: 20px;
+	-webkit-font-smoothing: antialiased;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+}
+footer .under {
+	text-decoration: underline;
+}
+/* 123 */
